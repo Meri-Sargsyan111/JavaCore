@@ -1,7 +1,6 @@
 package homework.dynamicarray;
 
-public class DynamicArray {
-        public static void main(String[] args) {
+public class DynamicArray { {
 
         }
         private int[] array = new int[10];
