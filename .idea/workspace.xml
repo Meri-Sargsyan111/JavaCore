@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07a627c6-0160-41ec-9907-eebab33329e1" name="Changes" comment="Տնային․Աշխատանք">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Meri-Sargsyan111&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Meri-Sargsyan111/JavaCore.git&quot;,
+    &quot;accountId&quot;: &quot;d9897399-d3ee-482e-aaa0-b3c9a4f3c3bf&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="32BS9yMfwkeJWLIgaNvw4tRbHmd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DynamicArrayDemo.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.FirstHomeWork.executor": "Run",
+    "Application.Sort.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Rebasing master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07a627c6-0160-41ec-9907-eebab33329e1" name="Changes" comment="" />
+      <created>1756892326303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756892326303</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Տնային․Աշխատանք">
+      <option name="closed" value="true" />
+      <created>1758638693786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758638693786</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Տնային․Աշխատանք">
+      <option name="closed" value="true" />
+      <created>1759596484366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759596484366</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Տնային․Աշխատանք">
+      <option name="closed" value="true" />
+      <created>1759868667185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759868667185</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Տնային․Աշխատանք">
+      <option name="closed" value="true" />
+      <created>1759868753484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759868753484</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Տնային․Աշխատանք">
+      <option name="closed" value="true" />
+      <created>1759868897096</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759868897096</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Տնային․Աշխատանք">
+      <option name="closed" value="true" />
+      <created>1759869063189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759869063189</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Տնային․Աշխատանք">
+      <option name="closed" value="true" />
+      <created>1759871028519</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759871028519</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Տնային․Աշխատանք" />
+    <option name="LAST_COMMIT_MESSAGE" value="Տնային․Աշխատանք" />
+  </component>
+</project>
