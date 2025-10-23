@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07a627c6-0160-41ec-9907-eebab33329e1" name="Changes" comment="Տնային․Աշխատանք">
+    <list default="true" id="07a627c6-0160-41ec-9907-eebab33329e1" name="Changes" comment="homework5">
+      <change afterPath="$PROJECT_DIR$/src/homework2/FigurePainter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/ArrayHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/BookStorga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/libraryDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -39,25 +46,44 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="32BS9yMfwkeJWLIgaNvw4tRbHmd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayHomework.executor": "Run",
+    "Application.ArrayUtil.executor": "Run",
+    "Application.BraceCheckerTest.executor": "Run",
     "Application.DynamicArrayDemo.executor": "Run",
     "Application.Example.executor": "Run",
+    "Application.FigurePainter.executor": "Run",
     "Application.FirstHomeWork.executor": "Run",
     "Application.Sort.executor": "Run",
+    "Application.libraryDemo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Rebasing master",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="library" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="07a627c6-0160-41ec-9907-eebab33329e1" name="Changes" comment="" />
@@ -122,11 +148,46 @@
       <option name="project" value="LOCAL" />
       <updated>1759871028519</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Test commit and pushing">
+      <option name="closed" value="true" />
+      <created>1759919977068</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759919977068</updated>
+    </task>
+    <task id="LOCAL-00009" summary="delete test class">
+      <option name="closed" value="true" />
+      <created>1759920053085</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759920053085</updated>
+    </task>
+    <task id="LOCAL-00010" summary="homework5">
+      <option name="closed" value="true" />
+      <created>1760268056919</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760268056919</updated>
+    </task>
+    <task id="LOCAL-00011" summary="homework5">
+      <option name="closed" value="true" />
+      <created>1760273877588</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1760273877588</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Տնային․Աշխատանք" />
-    <option name="LAST_COMMIT_MESSAGE" value="Տնային․Աշխատանք" />
+    <MESSAGE value="Test commit and pushing" />
+    <MESSAGE value="delete test class" />
+    <MESSAGE value="homework5" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework5" />
   </component>
 </project>
