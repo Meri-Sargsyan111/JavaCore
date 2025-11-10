@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07a627c6-0160-41ec-9907-eebab33329e1" name="Changes" comment="homework5">
+    <list default="true" id="07a627c6-0160-41ec-9907-eebab33329e1" name="Changes" comment="simple test">
+      <change afterPath="$PROJECT_DIR$/src/employee/positionLevel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/homework2/FigurePainter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/homework3/ArrayHomework.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/homework4/ArrayUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/employee/EmployeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/EmployeeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/employee/EmployeeStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/EmployeeStorage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -39,7 +45,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -52,32 +58,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayHomework.executor": "Run",
-    "Application.ArrayUtil.executor": "Run",
-    "Application.BraceCheckerTest.executor": "Run",
-    "Application.DynamicArrayDemo.executor": "Run",
-    "Application.EmployeeDemo.executor": "Run",
-    "Application.Example.executor": "Run",
-    "Application.FigurePainter.executor": "Run",
-    "Application.FirstHomeWork.executor": "Run",
-    "Application.Sort.executor": "Run",
-    "Application.libraryDemo.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayHomework.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayUtil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BraceCheckerTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicArrayDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FigurePainter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstHomeWork.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.libraryDemo.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="employee" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -205,14 +214,34 @@
       <option name="project" value="LOCAL" />
       <updated>1761731667074</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="simple test">
+      <option name="closed" value="true" />
+      <created>1761732523642</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1761732523642</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Տնային․Աշխատանք" />
     <MESSAGE value="Test commit and pushing" />
     <MESSAGE value="delete test class" />
     <MESSAGE value="homework5" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework5" />
+    <MESSAGE value="simple test" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple test" />
   </component>
 </project>
